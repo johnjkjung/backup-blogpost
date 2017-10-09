@@ -21,7 +21,7 @@
     sudo apt-get install build-essential python-dev
     sudo pip install html2text
 
-**backupBlog.py 파일 다운로드**
+[**backupBlog.py 파일 다운로드**](https://github.com/johnjkjung/backup-blogpost/blob/master/backupBlog.py)
 
   
   
