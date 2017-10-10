@@ -16,10 +16,23 @@
 
 **파이썬 및 확장 모듈 설치**
 
-    sudo apt-get install python
-    sudo apt-get install pip
-    sudo apt-get install build-essential python-dev
-    sudo pip install html2text
+* Linux
+
+    	sudo apt-get install python
+    	sudo apt-get install pip
+    	sudo apt-get install build-essential python-dev
+    	sudo pip install html2text
+
+* Mac
+
+    	sudo brew install python
+    	sudo easy_install pip && sudo pip install virtualenv
+    	brew install coreutils
+    	pip install html2text
+
+* [Window][download_window]
+
+		python 및  html2text 파이썬 모듈 설치 필요
 
 [**backupBlog.py 파일 다운로드**][1]
 
@@ -108,6 +121,7 @@ https://www.tistory.com/oauth/authorize?client_id=아이디&redirect_uri=http://
 
 [1]:https://github.com/johnjkjung/backup-blogpost/blob/master/backupBlog.py
 [2]:http://www.tistory.com/guide/api/manage/register
+[download_window]:https://www.python.org/downloads/windows/
 
 [doc_first]:http://cfile2.uf.tistory.com/image/99110D3359DB95412E90B9
 [doc_last]:http://cfile1.uf.tistory.com/image/994C663359DB954109B1E7
