@@ -71,7 +71,7 @@ https://www.tistory.com/oauth/authorize?client_id=아이디&redirect_uri=http://
 * text 에디터 등으로 **backupBlog.py** 파일 오픈
 * 아래 부분만 바꾸고 저장
   
-  ![backup_pre]
+  ![][backup_pre]
  
  
    
@@ -91,7 +91,7 @@ https://www.tistory.com/oauth/authorize?client_id=아이디&redirect_uri=http://
   > 위 코드를 입력하면 터미널에 아래 이미지처럼 백업받는 문서번호가 뜹니다.
   > error 메시지가 뜬 경우는 해당 문서가 없거나, 엑세스 토큰이 만료된 경우 등이 있습니다.
 
-![backup_on] 
+![][backup_on] 
 
 
 
@@ -101,7 +101,7 @@ https://www.tistory.com/oauth/authorize?client_id=아이디&redirect_uri=http://
 > 아래와 같이 폴더 구조가 생기고, 각 문서 폴더에 포스팅 및 이미지 등이 모두 위치합니다.
 > `내 블로그명 - 카테고리 번호 - 문서 번호`
 
-![backup_done] 
+![][backup_done] 
 
   
 
@@ -111,11 +111,11 @@ https://www.tistory.com/oauth/authorize?client_id=아이디&redirect_uri=http://
   > 마크다운 문법입니다. 티스토리에 생성된 html은 매우 지져분하죠. 깨끗한 마크다운 문서를 원본으로 보관하길 강추합니다.
   > 문서 상단 첫줄,둘째줄에 제목과 작성일이 있습니다.
   
-![doc_first]
+![][doc_first]
 	
   > 사진 링크는 깨끗하게 모두 참조 형식으로 문서 하단으로 밀었습니다.
     
-![doc_last]
+![][doc_last]
 
 
 
@@ -123,8 +123,9 @@ https://www.tistory.com/oauth/authorize?client_id=아이디&redirect_uri=http://
 [2]:http://www.tistory.com/guide/api/manage/register
 [download_window]:https://www.python.org/downloads/windows/
 
-[doc_first]:http://cfile2.uf.tistory.com/image/99110D3359DB95412E90B9
-[doc_last]:http://cfile1.uf.tistory.com/image/994C663359DB954109B1E7
-[backup_pre]:http://cfile24.uf.tistory.com/image/9970703359DB9543074753
+[doc_first]:http://cfile26.uf.tistory.com/image/99B6583359DF6E7408EAB0
+[doc_last]:http://cfile21.uf.tistory.com/image/9998503359DF6E7521A28F
+[backup_pre]:http://cfile30.uf.tistory.com/image/9974613359DF6E740EC5B9
 [backup_on]:http://cfile24.uf.tistory.com/image/9970C23359DB9542072649
-[backup_done]:http://cfile21.uf.tistory.com/image/99A7573359DB95421CD93B
+[backup_done]:http://cfile28.uf.tistory.com/image/99D4CA3359DF6E7333B5CE
+
