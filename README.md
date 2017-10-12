@@ -126,6 +126,7 @@ https://www.tistory.com/oauth/authorize?client_id=아이디&redirect_uri=http://
 [doc_first]:http://cfile26.uf.tistory.com/image/99B6583359DF6E7408EAB0
 [doc_last]:http://cfile21.uf.tistory.com/image/9998503359DF6E7521A28F
 [backup_pre]:http://cfile30.uf.tistory.com/image/9974613359DF6E740EC5B9
-[backup_on]:http://cfile24.uf.tistory.com/image/9970C23359DB9542072649
+[backup_on]:http://cfile26.uf.tistory.com/image/997ECE3359DF7209028339
 [backup_done]:http://cfile28.uf.tistory.com/image/99D4CA3359DF6E7333B5CE
+
 
